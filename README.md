@@ -10,6 +10,7 @@ Data analyst and data scientist based in **Verona, Italy**, open to roles in Ita
 
 | Project | Result |
 |---|---|
+| [Predictive Maintenance of a Hydraulic System](https://github.com/Amirhatamian/hydraulic-predictive-maintenance) | Industrial sensor data (2,205 cycles, 17 sensors): 95–100% fault diagnosis; 3 sensors enough for 3 of 4 components |
 | [Italian Fuel Price Data Pipeline (ETL)](https://github.com/Amirhatamian/italy-fuel-etl) | 33.8 M daily prices into a PostgreSQL warehouse: idempotent loads, quarantine, quality checks, 38 tests + CI |
 | [Italian Fuel Prices: who charges more, and where?](https://github.com/Amirhatamian/italy-fuel-prices) | 23,930 stations, official MIMIT data: being served costs €6.74 more per tank; expensive stations 7× more common in Basilicata than Lombardia |
 | [E-commerce Sales Analysis with SQL and Power BI](https://github.com/Amirhatamian/olist-sql-powerbi) | PostgreSQL on 100k orders: late deliveries average 2.27 stars vs 4.29 on time |
