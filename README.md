@@ -10,6 +10,7 @@ Data analyst and data scientist based in **Verona, Italy**, open to roles in Ita
 
 | Project | Result |
 |---|---|
+| [Italian Fuel Price Data Pipeline (ETL)](https://github.com/Amirhatamian/italy-fuel-etl) | 33.8 M daily prices into a PostgreSQL warehouse: idempotent loads, quarantine, quality checks, 38 tests + CI |
 | [Italian Fuel Prices: who charges more, and where?](https://github.com/Amirhatamian/italy-fuel-prices) | 23,930 stations, official MIMIT data: being served costs €6.74 more per tank; expensive stations 7× more common in Basilicata than Lombardia |
 | [E-commerce Sales Analysis with SQL and Power BI](https://github.com/Amirhatamian/olist-sql-powerbi) | PostgreSQL on 100k orders: late deliveries average 2.27 stars vs 4.29 on time |
 | [A/B Test: Moving the First Gate in a Mobile Game](https://github.com/Amirhatamian/ab-test-cookie-cats) | 90k players: gate at level 30 keeps 7-day retention higher (19.0% vs 18.2%, p = 0.002) |
