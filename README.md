@@ -3,7 +3,7 @@
 Data analyst and data scientist based in **Verona, Italy**, open to roles in Italy and across the EU.
 
 - Data Science Researcher at Erasmus School of Economics, Rotterdam (simulation studies in R, reports in Python)
-- MSc in Data Science, University of Verona (expected 2027)
+- MSc in Data Science, University of Verona (expected March 2027)
 - Python · SQL · R · Power BI · Tableau · scikit-learn · TensorFlow / Keras
 
 ### Projects
